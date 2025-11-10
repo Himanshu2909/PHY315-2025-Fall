@@ -2,12 +2,12 @@
 ## I. Related Materials and their Properties
 [Materials project](https://next-gen.materialsproject.org/)
 ### A. Layered van der Waals crystals
-[Graphene and van der Waals Materials Review Papers](https://infrared.cni.columbia.edu/research/graphene/)
-[Two-dimensional van der Waals materials](https://physicstoday.aip.org/features/two-dimensional-van-der-waals-materials)
-[The state and potential of two-dimensional van der Waals materials](https://engineering.ucsb.edu/news/state-and-potential-two-dimensional-van-der-waals-materials)
-[Anomalous thickness dependence of Curie temperature in air-stable two-dimensional ferromagnetic 1T-CrTe2 grown by chemical vapor deposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC7864961/)
+- [Graphene and van der Waals Materials Review Papers](https://infrared.cni.columbia.edu/research/graphene/)
+- [Two-dimensional van der Waals materials](https://physicstoday.aip.org/features/two-dimensional-van-der-waals-materials)
+- [The state and potential of two-dimensional van der Waals materials](https://engineering.ucsb.edu/news/state-and-potential-two-dimensional-van-der-waals-materials)
+- [Anomalous thickness dependence of Curie temperature in air-stable two-dimensional ferromagnetic 1T-CrTe2 grown by chemical vapor deposition](https://pmc.ncbi.nlm.nih.gov/articles/PMC7864961/)
 
-- highly anisotropic bonding
+- Highly anisotropic bonding
 	- They are composed of atomically thin two-dimensional (2D) planes
 	- Strong covalent bonds within 2D sheets and only weak van der Waals forces between sheets.		
 	- This weak interlayer bonding is what allows vdW materials, like the famous example of graphene, to be "exfoliated" or peeled into single-atom-thick sheets
