@@ -26,24 +26,25 @@ PHY315: Modern Physics Lab
 			2. Diamond Anvil Cell
 			3. Quantum Critical Point
 		6. Rare Earth Magnetism: Hund’s Rule
-3. Vacuum & Materials Characterization
-	1. Vacuum Technology
-		1. Rotary Pump
-		2. Diffusion Pump
-		3. Thin Film Deposition
-	2. Rutherford Backscattering Spectrometry (RBS)
+3. Vacuum Technology
+	1. Rotary Pump
+	2. Diffusion Pump
+	3. Thin Film Deposition
 4. Atomic & Quantum Physics Experiments
-	1. Millikan’s Oil Drop Experiment
-	2. Blackbody Radiation
-	3. Planks Law
-	4. Stern-Gerlach Experiment
+	1. ~~Millikan’s Oil Drop Experiment~~
+	2. ~~Blackbody Radiation~~
+		1. ~~Human Body Emission~~
+		2. ~~Earth's Temp~~
+	3. ~~Planks Law~~
+	4. ~~Stern-Gerlach Experiment~~
 	5. Davisson-Germer Experiment
-	6. Hydrogen Spectrum (Bohr Model)
-		1. Grating Spectrometer or prism spectrograph
+	6. ~~Hydrogen Spectrum (Bohr Model)~~
+		1. ~~Grating Spectrometer or prism spectrograph~~
 	7. Sodium Spectrum
-5. Optics & Ultrafast Optics
+5. ~~Rutherford Backscattering Spectrometry (RBS)~~
+6. Optics & Ultrafast Optics
 	1. Laser Properties: Spatial Coherence and Temporal Coherence
-	2. Pyrometer
+	2. ~~Pyrometer~~
 	3. Mode Locking: femtosecond pulses
 	4. Pump-Probe Spectroscopy
 		1. Beam splitting
